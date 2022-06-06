@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abdillahi-mohamed
 - 👀 I’m interested in space programmation
 - 🌱 I’m currently learning in MCC
-- 💞️ I’m looking to collaborate on spaceX
 - 📫 How to reach me ...
 
 <!---
